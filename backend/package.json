@@ -1,0 +1,31 @@
+{
+  "name": "node_backend",
+  "version": "1.0.0",
+  "description": "node js with express server",
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flavienfr/node_react_dockerize"
+  },
+  "keywords": [
+    "nodejs express docker"
+  ],
+  "author": "froussel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flavienfr/node_react_dockerize/issues"
+  },
+  "homepage": "https://github.com/flavienfr/node_react_dockerize#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
