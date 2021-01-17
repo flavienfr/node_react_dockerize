@@ -1,7 +1,7 @@
 {
-  "name": "node_backend",
+  "name": "tetris_backend",
   "version": "1.0.0",
-  "description": "node js with express server",
+  "description": "A tetris api",
   "main": "index.js",
   "dependencies": {
     "cors": "^2.8.5",
@@ -14,17 +14,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/flavienfr/node_react_dockerize"
+    "url": "git+https://github.com/flavienfr/red-tetris.git"
   },
   "keywords": [
-    "nodejs express docker"
+    "tetris"
   ],
   "author": "froussel",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/flavienfr/node_react_dockerize/issues"
+    "url": "https://github.com/flavienfr/red-tetris/issues"
   },
-  "homepage": "https://github.com/flavienfr/node_react_dockerize#readme",
+  "homepage": "https://github.com/flavienfr/red-tetris#readme",
   "devDependencies": {
     "nodemon": "^2.0.7"
   }
