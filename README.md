@@ -1,5 +1,13 @@
 # node_react_dockerize
 
+# Launch it
+#### Run the developpment setup  
+  make dev  
+#### Run the production setup  
+  make prod  
+#### Clean all vomune and images  
+  make prune  
+
 # Frontend
 dev: https://medium.com/better-programming/heres-how-you-can-use-docker-with-create-react-app-3ee3a972b04e  
 prod: https://medium.com/better-programming/production-ready-react-with-docker-and-travis-ci-8e2ae559f26c  
