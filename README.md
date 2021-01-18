@@ -15,7 +15,7 @@ test : https://create-react-app.dev/docs/running-tests/
 socket.io react node js: https://www.valentinog.com/blog/socket-react/  
 
 ## Test
-jtest: https://create-react-app.dev/docs/running-tests/  
+jest: https://create-react-app.dev/docs/running-tests/  
 
 # Backend
 dockerfile: https://nodejs.org/en/docs/guides/nodejs-docker-webapp/  
