@@ -14,6 +14,9 @@ prod: https://medium.com/better-programming/production-ready-react-with-docker-a
 test : https://create-react-app.dev/docs/running-tests/  
 socket.io react node js: https://www.valentinog.com/blog/socket-react/  
 
+## Test
+jtest: https://create-react-app.dev/docs/running-tests/  
+
 # Backend
 dockerfile: https://nodejs.org/en/docs/guides/nodejs-docker-webapp/  
 docker compose nodejs help: https://rollout.io/blog/using-docker-compose-for-nodejs-development/  
